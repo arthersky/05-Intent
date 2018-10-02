@@ -11,7 +11,7 @@
 	<string name="bmi_normal">正常</string>
 	<string name="bmi_high">偏高</string>
 	<string name="bmi_overhigh">太高了</string>
-	<string name="bmi_dangerous">好危險</string>
+	<string name="bmi_dangerous">有點危險</string>
 	<string name="bmi_value_error">BMI 參數錯誤</string>
 
 </resources>
