@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_05_ActivityTransitions\\build\\intermediates\\res\\merged\\debug\\transition\\explode.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_05_ActivityTransitions\\src\\main\\res\\transition\\explode.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_05_ActivityTransitions\\build\\intermediates\\res\\merged\\debug\\transition\\fade.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_05_ActivityTransitions\\src\\main\\res\\transition\\fade.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_05_ActivityTransitions\\build\\intermediates\\res\\merged\\debug\\transition\\slide_right.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_05_ActivityTransitions\\src\\main\\res\\transition\\slide_right.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_05_ActivityTransitions\\build\\intermediates\\res\\merged\\debug\\transition\\slide_top.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_05_ActivityTransitions\\src\\main\\res\\transition\\slide_top.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_05_ActivityTransitions\\build\\intermediates\\res\\merged\\debug\\transition\\slide_left.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_05_ActivityTransitions\\src\\main\\res\\transition\\slide_left.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_05_ActivityTransitions\\build\\intermediates\\res\\merged\\debug\\transition\\move.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_05_ActivityTransitions\\src\\main\\res\\transition\\move.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_05_ActivityTransitions\\build\\intermediates\\res\\merged\\debug\\transition\\no_transition.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_05_ActivityTransitions\\src\\main\\res\\transition\\no_transition.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_05_ActivityTransitions\\build\\intermediates\\res\\merged\\debug\\transition\\slide_bottom.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_05_ActivityTransitions\\src\\main\\res\\transition\\slide_bottom.xml"
+    }
+]
