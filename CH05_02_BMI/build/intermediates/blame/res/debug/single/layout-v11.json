@@ -2,5 +2,9 @@
     {
         "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_02_BMI\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_screen_content_include.xml",
         "source": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_02_BMI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout-v11\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\05-Intent\\CH05_02_BMI\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_screen_content_include.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\05-Intent\\CH05_02_BMI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout-v11\\abc_screen_content_include.xml"
     }
 ]

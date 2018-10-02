@@ -1,7 +1,15 @@
 [
     {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\05-Intent\\CH05_04_Camera\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\05-Intent\\CH05_04_Camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_04_Camera\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_04_Camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\05-Intent\\CH05_04_Camera\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\05-Intent\\CH05_04_Camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_04_Camera\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
