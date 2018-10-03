@@ -8,12 +8,12 @@
         "source": "D:\\Documents\\AndroidStudioProjects\\05-Intent\\CH05_02_BMI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_02_BMI\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_02_BMI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_02_BMI\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_02_BMI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_02_BMI\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_02_BMI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_02_BMI\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
@@ -28,12 +28,12 @@
         "source": "D:\\Documents\\AndroidStudioProjects\\05-Intent\\CH05_02_BMI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_02_BMI\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_02_BMI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
         "merged": "D:\\Documents\\AndroidStudioProjects\\05-Intent\\CH05_02_BMI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "D:\\Documents\\AndroidStudioProjects\\05-Intent\\CH05_02_BMI\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_02_BMI\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_02_BMI\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.1\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
         "merged": "D:\\Documents\\AndroidStudioProjects\\CH05-Intent\\CH05_02_BMI\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
